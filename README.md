@@ -3,7 +3,7 @@
 ## Estado del Proyecto: En Desarrollo.
 
 Este repositorio contiene un proyecto estático sobre HTML y CSS con diseño adaptable, el cual consta de mi portafolio personal
-donde se referencia todo mi conocmiento y experiencia como desarrollador fullstack con Angular y Java - Spring - Spring Boot, entre otras herramientas.
+donde se referencia todo mi conocimiento y experiencia como desarrollador fullstack con Angular y Java - Spring - Spring Boot, entre otras herramientas.
 
 [//]: <> (Adicionalmente el proyecto esta desplegado con githubpages y lo puedes encontrar en el siguiente enlace: `Enlace del deploy`.)
 
